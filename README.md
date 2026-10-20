@@ -31,25 +31,3 @@ An interactive, responsive web application designed for campus outreach to educa
    Open `http://localhost:3000` in your browser.
 
 ---
-
-## ☁️ How to Deploy on Vercel (100% Free)
-
-### Option A: Using Vercel Website (No CLI needed)
-1. Push this folder to a GitHub repository.
-2. Go to [vercel.com](https://vercel.com) and log in.
-3. Click **"Add New..."** -> **"Project"**.
-4. Import your GitHub repository and click **Deploy**.
-5. Your project will be live in 10 seconds at a free `.vercel.app` URL!
-
-### Option B: Drag & Drop via Vercel Dashboard
-1. Log in to [vercel.com](https://vercel.com).
-2. Go to the dashboard and upload/drag this project folder.
-3. Vercel will immediately deploy the static files.
-
----
-
-## 👥 Outreach Demonstration Talking Points (AB2 Meeting)
-- Emphasize how rural students are disproportionately targeted by quick-money and fake government scheme SMS.
-- Walk the audience through Case 1 (Electricity scam) and Case 2 (Bank KYC).
-- Show how the URL inspector detects hidden brand-spoofing in link addresses.
-- Conclude by highlighting the **1930** helpline and reporting procedure.
